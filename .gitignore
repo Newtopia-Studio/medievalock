@@ -1,4 +1,42 @@
-game/cache/
-game/saves/
+# ==========================================
+# Archivos compilados por Ren'Py (Bytecode)
+# ==========================================
+*.rpyc
+*.rpymc
+
+# ==========================================
+# Archivos de depuracion y logs de Ren'py
+# ==========================================
 log.txt
 traceback.txt
+errors.txt
+
+# ==========================================
+# Carpetas de construcción / exportación
+# ==========================================
+# Archivos generados al exportar el juego para Windows, Linux, Mac, etc.
+/saves/
+/game/saves/
+/game/tl/
+/bin/
+/tmp/
+/build/
+
+# Configuración de persistencia local del desarrollador
+/game/presave/
+/game/cache/
+
+# ==========================================
+# Sistema Operativo y Editores de Código
+# ==========================================
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores (Neovim, VS Code, etc.)
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
