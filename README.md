@@ -2,17 +2,8 @@
 esta es una novela visual de blue lock ambientada en la edad media
 
 ## Licencia
-Copyright (C) 2026 creadores mencionado abajo
-Este programa es software libre: puedes redistribuirlo y/o modificarlo
-bajo los terminos de la *Licencia Publica General GNU* publicada por la 
-*Free Software Foundation*, ya sea la version 3 de la Licencia o 
-(a tu eleccion) cualquier version posterior
-Este programa se distribuye con la esperanza de que sea util, pero 
-**SIN GARANTIA ALGUNA**; ni siquiera garantia implicita de 
-**MERCANTILIDAD o APTITUD PARA UN PROPOSITO DETERMINADO**.
-Consulte la *Licencia Publica General GNU* para obtener mas detalles.
-Deberias haber recibido una copia de la Licencia Publica General GNU 
-junto con este programa. Si no es asi, consulta <https://www.gnu.org/licenses/>.
+- **Código Fuente:** Licenciado bajo [GNU General Public License v3.0](LICENSE).
+- **Arte, Música, Guión y Sonido:** Licenciado bajo [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Creadores
 - **BryLang-void**: programadore y diseñadore
