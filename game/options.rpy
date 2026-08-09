@@ -32,14 +32,14 @@ define config.version = "1.0"
 ## comillas triples y deja una línea en blanco entre párrafos.
 
 define gui.about = _p("""
-Creadores:
-    BryLang-void: programador y diseñador
-    "Nyon Besame": artista
-    Loki: guionista
-    Damzelette: artista
-    Ness: guionista y artista
-    Yam: guionista y artista
-    Yuko: guionista, artista y programadora
+{b}Creadores:{/b} \n
+• {i}BryLang-void{/i}: programador y diseñador \n
+• {i}"Nyon Besame":{/i} artista \n
+• {i}Loki:{/i} guionista \n 
+• {i}Damzelette:{/i} artista \n
+• {i}Ness:{/i} guionista y artista \n
+• {i}Yam:{/i} guionista y artista \n
+• {i}Yuko:{/i} guionista, artista y programadora \n
 """)
 
 
