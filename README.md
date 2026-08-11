@@ -12,4 +12,5 @@ esta es una novela visual de blue lock ambientada en la edad media
 - **Damzelette**: artista
 - **Ness**: artista y guionista
 - **Yam**: artista y guionista
-- **Yuko**: artista, guionista y programadora
+- **Yuko**: artista, guionista
+- **Fan**: doblador de voz
