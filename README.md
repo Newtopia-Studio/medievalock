@@ -11,18 +11,18 @@ esta es una novela visual de blue lock ambientada en la edad media
 - **Diseñadores:**
   - **BryLang-void**
 - **Artistas:**
+  - **Hyuna**
   - **LenVainilla**
   - **Damzelette**
   - **Ness**
   - **Yam**
   - **Yuko**
-  - **Hyuna**
 - **Guionistas:**
+  - **Hyuna**
   - **Loki**
   - **LenVainilla**
   - **Ness**
   - **Yam**
   - **Yuko**
-  - **Hyuna**
 - **Doblaje:**
   - **Fan**
