@@ -21,6 +21,9 @@ errors.txt
 /bin/
 /tmp/
 /build/
+android.json
+progressive_download.txt
+project.json
 
 # Configuración de persistencia local del desarrollador
 /game/presave/
