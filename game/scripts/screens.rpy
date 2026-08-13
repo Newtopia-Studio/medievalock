@@ -393,8 +393,8 @@ screen main_menu():
         spacing 15  
 
 ## Espaciado entre botones  
-        textbutton "Jugar" action Start() text_size 40 
-        textbutton "Cargar" action ShowMenu("load") text_size 40
+        textbutton "Jugar" action Start() text_size 55 
+        textbutton "Cargar" action ShowMenu("load") text_size 55
         textbutton "Opciones" action ShowMenu("preferences")  
         textbutton "Acerca de" action ShowMenu("about")  
         textbutton "Ayuda" action ShowMenu("help")  
