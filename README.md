@@ -7,9 +7,9 @@ esta es una novela visual de blue lock ambientada en la edad media
 
 ## Equipo
 - **Programadores:**
-  - **BryLang-void**
+  - **BryLang**
 - **Diseñadores:**
-  - **BryLang-void**
+  - **BryLang**
 - **Artistas:**
   - **Hyuna**
   - **LenVainilla**
