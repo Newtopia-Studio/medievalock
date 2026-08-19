@@ -29,5 +29,6 @@ esta es una novela visual de blue lock ambientada en la edad media
   - **Fan**
   - **Grokz**
   - **Sinyo**
+  - **MiseriSixSeven**
 - **Testers:**
   - **Mirko**
