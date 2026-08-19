@@ -1,5 +1,5 @@
 #################################################################################
-# Copyright (C) 2026 El equipo de Medievalock
+# Copyright (C) 2026 Newtopia Studio
 #
 # Este programa es software libre: puedes redistribuirlo y/o modificarlo
 # bajo los terminos de la Licencia Publica General GNU publicada por la 
