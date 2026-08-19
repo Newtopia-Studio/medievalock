@@ -45,7 +45,7 @@ define gui.show_name = True
 
 ## Versión del juego.
 
-define config.version = "1.0.0"
+define config.version = "0.1.0"
 
 
 ## Texto situado en la pantalla 'Acerca de' del juego. Sitúa el texto entre
@@ -53,13 +53,26 @@ define config.version = "1.0.0"
 
 define gui.about = _p("""
 {b}Creadores:{/b} \n
-• {i}BryLang-void{/i}: programador y diseñador \n
-• {i}"Nyon Besame":{/i} artista \n
-• {i}Loki:{/i} guionista \n 
-• {i}Damzelette:{/i} artista \n
-• {i}Ness:{/i} guionista y artista \n
-• {i}Yam:{/i} guionista y artista \n
-• {i}Yuko:{/i} guionista, artista y programadora \n
+• {b}Programadores:{/b} \n
+    • {i}BryLang{/i} \n
+• {b}Disenadores:{/b} \n
+    • {i}BryLang{/i} \n
+• {b}Artistas:{/b} \n
+    • {i}Hyuna{/i} \n
+    • {i}LenVainilla{/i} \n
+    • {i}Damzelette{/i} \n
+    • {i}Ness{/i} \n
+    • {i}Yam{/i} \n
+    • {i}Yuko{/i} \n
+• {b}Guionistas:{/b} \n
+    • {i}Hyuna{/i} \n
+    • {i}Loki{/i} \n
+    • {i}LenVainilla{/i} \n
+    • {i}Ness{/i} \n
+    • {i}Yam{/i} \n
+    • {i}Yuko{/i} \n
+• {b}Doblaje:{/b} \n
+    • {i}Fan{/i} \n
 """)
 
 

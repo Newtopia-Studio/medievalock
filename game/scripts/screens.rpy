@@ -600,7 +600,7 @@ screen about():
         vbox:
 
             label "[config.name!t]"
-            text _("Versión [config.version!t]\n")
+            text _("Version [config.version!t]\n")
 
             ## 'gui.about' se ajusta habitualmente en 'options.rpy'.
             if gui.about:
