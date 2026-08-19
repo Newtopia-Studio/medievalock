@@ -74,6 +74,7 @@ define gui.about = _p("""
 • {b}Doblaje:{/b} \n
     • {i}Fan{/i} \n
     • {i}Grokz{/i} \n
+    • {i}Sinyo{/i} \n
 • {b}Testers:{/b} \n
     • {i}Mirko{/i} \n
 """)
