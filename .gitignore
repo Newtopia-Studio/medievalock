@@ -43,3 +43,9 @@ desktop.ini
 *~
 .vscode/
 .idea/
+
+# =========================================
+# LLAVES DE ACCESO SECRETAS
+# =========================================
+android.keystore  
+bundle.keystore

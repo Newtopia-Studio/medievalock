@@ -58,15 +58,14 @@ define gui.about = _p("""
 • {b}Disenadores:{/b} \n
     • {i}BryLang{/i} \n
 • {b}Artistas:{/b} \n
+    • {i}Damzelette{/i} \n
     • {i}Hyuna{/i} \n
     • {i}LenVainilla{/i} \n
-    • {i}Damzelette{/i} \n
     • {i}Ness{/i} \n
     • {i}Yam{/i} \n
     • {i}Yuko{/i} \n
 • {b}Guionistas:{/b} \n
     • {i}Hyuna{/i} \n
-    • {i}Loki{/i} \n
     • {i}LenVainilla{/i} \n
     • {i}Ness{/i} \n
     • {i}Yam{/i} \n
@@ -74,8 +73,12 @@ define gui.about = _p("""
 • {b}Doblaje:{/b} \n
     • {i}Fan{/i} \n
     • {i}Grokz{/i} \n
+    • {i}Loki{/i} \n
+    • {i}Marialin{/i} \n
+    • {i}MiseriSixSeven{/i} \n
     • {i}Sinyo{/i} \n
     • {i}MiseriSixSeven{/i} \n
+    • {i}Loki{/i} \n
 • {b}Testers:{/b} \n
     • {i}Mirko{/i} \n
 """)
