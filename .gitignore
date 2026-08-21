@@ -45,7 +45,8 @@ desktop.ini
 .idea/
 
 # =========================================
-# LLAVES DE ACCESO SECRETAS
+# EXTRA
 # =========================================
 android.keystore  
 bundle.keystore
+ideas.txt
